@@ -6,4 +6,5 @@ Currently the primary feature is a heads-up display that shows the currently sel
 Although I find this useful, I totally admit this app could need some significant improvements.
 
 **Requires xpadder 5.7 (not shipped)**
+
 Probably needs some small code adjustments when using this on your machine. At least you might want to have a look at the code.
